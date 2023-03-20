@@ -1,6 +1,5 @@
 clothes_stack = [int(x) for x in input().split()]
 capacity_of_rack = int(input())
-# sum_of_clothes = 0
 current_rack = capacity_of_rack
 count_rack = 1
 
